@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT green_beauty_care_4287.wsgi:application
